@@ -1,0 +1,72 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Nasi Lemak",
+            "price": 7.99,
+            "image": "./images/img-10.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Shawarma",
+            "price": 5.99,
+            "image": "./images/img-11.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Tabbuleh",
+            "price": 8.99,
+            "image": "./images/img-12.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Mansaf",
+            "price": 11.99,
+            "image": "./images/img-14.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Nasi Goreng",
+            "price": 9.99,
+            "image": "./images/img-17.jpg"
+
+        },
+        {
+            "id": 6,
+            "title": "Chicken Cheese Burger",
+            "price": 4.99,
+            "image": "./images/img-18.jpg"
+
+        },
+        {
+            "id": 7,
+            "title": "Pita with Za'atar",
+            "price": 12.99,
+            "image": "./images/img-20.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Lassi",
+            "price": 4.99,
+            "image": "./images/img-01.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Bubble Tea",
+            "price": 4.99,
+            "image": "./images/img-03.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Arabian Coffee",
+            "price": 7.99,
+            "image": "./images/img-04.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Masala Chai",
+            "price": 5.99,
+            "image": "./images/img-09.jpg"
+        }
+    ]
+}
